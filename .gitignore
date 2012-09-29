@@ -1,3 +1,7 @@
+working
+cabal-dev
+.git
+*swp
 _cache
 _site
 *-
