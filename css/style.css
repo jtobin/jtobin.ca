@@ -36,7 +36,8 @@ header {
 .nav.pull-right { float: right;
                   margin-right: 0; }
 
-#sitelink { color: #474747; }
+#sitelink { color: #474747; 
+            font-size: 150%; }
 
 ::-moz-selection { background: #E5FCC2; color: #000000; text-shadow: none; }
 ::selection      { background: #E5FCC2; color: #000000; text-shadow: none; }
@@ -49,6 +50,12 @@ h1      { font-weight: lighter;
 
 h2      { font-weight: 300; 
           border-bottom: 1px solid; }
+
+h3      { font-weight: 300;
+          font-size: 255%; }
+
+img     { padding-top: 20px; 
+          padding-bottom: 20px; }
 
 h4      { margin-bottom: 4px; } 
 
