@@ -2,7 +2,7 @@
 title: jared tobin - blog
 ---
 
-Open-Source Projects
+Posts
 ---------
 
 malheureusement, rien est ici.
