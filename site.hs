@@ -1,4 +1,5 @@
 {-# LANGUAGE OverloadedStrings #-}
+
 import Hakyll
 import Control.Arrow
 
@@ -28,8 +29,8 @@ main = hakyll $ do
             >>> applyTemplateCompiler "templates/default.html"
             >>> relativizeUrlsCompiler
 
-    match "blog.markdown" $ do
-        route   $ constRoute "blog/index.html"
+    match "posts.markdown" $ do
+        route   $ constRoute "posts/index.html"
         compile $ pageCompiler 
             >>> applyTemplateCompiler "templates/default.html"
             >>> relativizeUrlsCompiler
