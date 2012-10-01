@@ -2,7 +2,7 @@
 title: jared tobin - cv
 ---
 
-Specializations
+Interests
 ---------
 
 *   Bayesian Statistics/Machine Learning
@@ -79,6 +79,11 @@ Publications & Research
 *   \(2010\) AD Model Builder Workshop, University of Kent, UK.
 *   \(2007\) Advanced R Programming, Meeting of the Statistical Society of Canada, St. John's, Canada.
 
+Open-Source Projects
+--------------------
+
+*   [affine-invariant-ensemble-mcmc](http://hackage.haskell.org/package/affine-invariant-ensemble-mcmc): Efficient general-purpose sampling in Haskell. 
+
 Some Preferred Tools
 --------------------
 
@@ -86,7 +91,6 @@ Some Preferred Tools
 
 *   Haskell
 *   R
-*   Unix shell
 
 #### Computing
 

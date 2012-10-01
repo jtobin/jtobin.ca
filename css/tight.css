@@ -27,7 +27,8 @@ header {
             margin: 50px auto; }
 
 #colophon { width: 850px;
-            margin: 50px auto; }
+            margin: 50px auto;   
+            padding: 40px;     }
 
 .nav { position: relative;
        left: 0;
@@ -70,6 +71,6 @@ a:hover { color: #45ADA8; }
 code    { font-family: monospace; }
 
 p       { margin: 0;
-          padding: 10px;
+          padding: 1px;
           border: 0;  } 
 

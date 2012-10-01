@@ -11,22 +11,14 @@ main = hakyll $ do
         route   idRoute
         compile compressCssCompiler
 
-    match "index.markdown" $ do
-        route   $ setExtension "html"
-        compile $ pageCompiler 
-            >>> applyTemplateCompiler "templates/default.html"
-            >>> relativizeUrlsCompiler
-
-    match "projects.markdown" $ do
-        route   $ constRoute "projects/index.html"
-        compile $ pageCompiler 
-            >>> applyTemplateCompiler "templates/default.html"
-            >>> relativizeUrlsCompiler
+    match "css/tight.css" $ do
+        route   idRoute
+        compile compressCssCompiler
 
     match "cv.markdown" $ do
-        route   $ constRoute "cv/index.html"
+        route   $ constRoute "index.html"
         compile $ pageCompiler 
-            >>> applyTemplateCompiler "templates/default.html"
+            >>> applyTemplateCompiler "templates/cv.html"
             >>> relativizeUrlsCompiler
 
     match "posts.markdown" $ do

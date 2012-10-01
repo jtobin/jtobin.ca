@@ -2,7 +2,5 @@
 title: jared tobin - blog
 ---
 
----------
-
-malheureusement, rien est ici.
+Malheureusement, rien n'est ici.
 
