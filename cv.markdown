@@ -1,5 +1,7 @@
 ---
-title: jared tobin - cv
+author: Jared Tobin
+contact: jared at jtobin dot ca
+title: Jared Tobin - CV
 ---
 
 Interests
@@ -82,7 +84,7 @@ Publications & Research
 Open-Source Projects
 --------------------
 
-*   [affine-invariant-ensemble-mcmc](http://hackage.haskell.org/package/affine-invariant-ensemble-mcmc): Efficient general-purpose sampling in Haskell. 
+*   [flat\_mcmc](http://jtobin.github.com/affine-invariant-ensemble-mcmc): Efficient general-purpose sampling in Haskell. 
 
 Some Preferred Tools
 --------------------
