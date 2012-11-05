@@ -1,7 +1,7 @@
 ---
 author: Jared Tobin
 contact: jared at jtobin dot ca
-title: Jared Tobin - CV
+title: jared tobin - cv
 ---
 
 Interests
@@ -9,7 +9,7 @@ Interests
 
 *   Bayesian Statistics/Machine Learning
 *   Functional Programming
-*   Algorithms/Data Structures
+*   Probabilistic Algorithms/Data Structures
 *   Software/Systems Development
 
 Education
@@ -84,7 +84,9 @@ Publications & Research
 Open-Source Projects
 --------------------
 
-*   [flat\_mcmc](http://jtobin.github.com/affine-invariant-ensemble-mcmc): Efficient general-purpose sampling in Haskell. 
+*   \(2012\) [flat-mcmc](http://jtobin.github.com/affine-invariant-ensemble-mcmc): Painless general-purpose sampling in Haskell.
+*   \(2012\) [hasty-hamiltonian](http://github.com/jtobin/hasty-hamiltonian): Speedy gradient-based traversal through parameter space.
+*   \(2012\) [lazy-langevin](http://github.com/jtobin/lazy-langevin): Gradient-based diffusion in Haskell. 
 
 Some Preferred Tools
 --------------------
