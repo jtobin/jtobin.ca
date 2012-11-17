@@ -84,7 +84,7 @@ Publications & Research
 Open-Source Projects
 --------------------
 
-*   \(2012\) [flat-mcmc](http://jtobin.github.com/affine-invariant-ensemble-mcmc): Painless general-purpose sampling in Haskell.
+*   \(2012\) [flat-mcmc](http://jtobin.github.com/flat-mcmc): Painless general-purpose sampling in Haskell.
 *   \(2012\) [hasty-hamiltonian](http://github.com/jtobin/hasty-hamiltonian): Speedy gradient-based traversal through parameter space.
 *   \(2012\) [lazy-langevin](http://github.com/jtobin/lazy-langevin): Gradient-based diffusion in Haskell. 
 
@@ -94,6 +94,7 @@ Some Preferred Tools
 #### Programming Languages
 
 *   Haskell
+*   C
 *   R
 
 #### Computing
