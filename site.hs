@@ -1,3 +1,5 @@
+-- jtobin.ca compiler
+
 {-# LANGUAGE OverloadedStrings #-}
 
 import Hakyll
