@@ -69,6 +69,7 @@ Publications & Research
 
 #### Seminars & Presentations
 
+*   \(2012\) flat-mcmc: Painless general-purpose sampling. Department of Statistics, The University of Auckland, New Zealand. \([slides](http://jtobin.ca/portfolio/talk_aucklandDec2012.pdf)\)
 *   \(2012\) Bayesian nonparametrics and scalable probabilistic inference. Department of Statistics, The University of Auckland, New Zealand. \([slides](http://jtobin.ca/portfolio/talk_aucklandApr2012.pdf)\)
 *   \(2011, Invited\) Machine learning for prediction and decision support. Department of Computer Science, Memorial University of Newfoundland, Canada. \([slides](http://jtobin.ca/portfolio/talk_munApr2011.pdf)\)
 *   \(2011\) Saddlepoint approximations, likelihood asymptotics, and approximate conditional inference. Department of Statistics, The University of Auckland, New Zealand. \([slides](http://jtobin.ca/portfolio/talk_aucklandFeb2011_slides_handout.pdf")\)
@@ -86,7 +87,6 @@ Open-Source Projects
 
 *   \(2012\) [flat-mcmc](http://jtobin.github.com/flat-mcmc): Painless general-purpose sampling in Haskell.
 *   \(2012\) [hasty-hamiltonian](http://github.com/jtobin/hasty-hamiltonian): Speedy gradient-based traversal through parameter space.
-*   \(2012\) [lazy-langevin](http://github.com/jtobin/lazy-langevin): Gradient-based diffusion in Haskell. 
 
 Some Preferred Tools
 --------------------
