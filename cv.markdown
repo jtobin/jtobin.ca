@@ -88,7 +88,7 @@ Publications & Research
 Open-Source Projects
 --------------------
 
-*   \(2012\) [prompt-pcap](http://jtobin.github.com/prompt-pcap): High-throughput financial data parsing.
+*   \(2012\) [prompt-pcap](http://github.com/jtobin/prompt-pcap): High-throughput financial data parsing.
 *   \(2012\) [flat-mcmc](http://jtobin.github.com/flat-mcmc): Painless general-purpose sampling in Haskell.
 *   \(2012\) [hasty-hamiltonian](http://github.com/jtobin/hasty-hamiltonian): Speedy gradient-based traversal through parameter space.
 
