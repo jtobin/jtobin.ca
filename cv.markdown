@@ -26,6 +26,9 @@ BSc, Statistics, Economics (2001 - 2006)
 Recent Employment 
 -----------------
 
+#### Developer (2013 - )
+Bdellium 
+
 #### Senior Research Analyst (2009 - 2011)
 Department of Transportation and Works
 
